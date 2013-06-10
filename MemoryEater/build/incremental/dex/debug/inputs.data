@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370863562000 349 c2d25b8368c2db1fbe8ce530f1ff6a8c163e5815 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$attr.class
+1370863562000 402 6eb0e21e352107f6a382f6a0605b22fd5b08b77b /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$id.class
+1370863562000 823 aa885e40eb11d3ab27b77c64544468c38ca90e5d /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/MainActivity.class
+1370863562000 481 573ddf726043d62246d3de6b24cb8d5180a9bee3 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$string.class
+1370863562000 440 8cf68fc6910a41a444607ae6950b3d4cee4dd8b2 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$style.class
+1370863562000 707 2468bdd9b3480fe07c55ef97faa5c6147123f386 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R.class
+1370863416000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/libs/android-support-v4.jar
+1370863562000 351 71767da4f5a48b931b1e39a2f1378110d8c43d67 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/BuildConfig.class
+1370863562000 470 0f2f89a3594d1f0a62e2aafabd72097401857286 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$dimen.class
+1370863562000 397 1566da36813e1118310283a4c52d31df511ad923 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$menu.class
+1370863562000 412 7682efcb7299831a54be89433a4d6de42fbdd3f9 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$layout.class
+1370863562000 416 89750d06763484bc2932a368a5f204f8982a82a8 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/classes/debug/net/prvak/memoryeater/R$drawable.class
