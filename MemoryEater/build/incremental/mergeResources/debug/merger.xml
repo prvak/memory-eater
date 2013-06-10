@@ -51,11 +51,17 @@
             <file
                 path="/home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/src/main/res/values/strings.xml"
                 qualifiers="" >
+                <string name="start_button" >Start
+                </string>
                 <string name="action_settings" >Settings
                 </string>
                 <string name="app_name" >Memory Eater
                 </string>
                 <string name="hello_world" >Hello world!
+                </string>
+                <string name="out_of_memory_error" >Out of memory!
+                </string>
+                <string name="no_error" >No error
                 </string>
             </file>
             <file
