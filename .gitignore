@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+MemoryEater/build/
+MemoryEater/libs/armeabi.jar
+*.swp

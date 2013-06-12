@@ -1,14 +1,10 @@
 package net.prvak.memoryeater;
 
-public class Bite {
-
-    private byte [] bytes;
-
-    public Bite(int size) {
-        bytes = new byte[size];
-    }
-
-    public int getSize() {
-        return bytes.length;
-    }
+public interface Bite {
+    /** Eat some portion of the memory. */
+    public void grab();
+    /** Returns the amount of memory that was eaten by grab(). */
+    public int getSize();
+    /** Returns true if the bite was counted against the native heap. */
+    public boolean isInNativeHeap();
 }

@@ -25,6 +25,11 @@
                 qualifiers="hdpi"
                 type="drawable" />
             <file
+                name="bitmap_bite"
+                path="/home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/src/main/res/raw/bitmap_bite.png"
+                qualifiers=""
+                type="raw" />
+            <file
                 name="ic_launcher"
                 path="/home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
@@ -51,17 +56,39 @@
             <file
                 path="/home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/src/main/res/values/strings.xml"
                 qualifiers="" >
-                <string name="start_button" >Start
+                <string name="error_out_of_bitmap_memory" >Out of java memory!
+                </string>
+                <string name="error_out_of_native_memory" >Out of native memory!
                 </string>
                 <string name="action_settings" >Settings
                 </string>
+                <string name="error_out_of_java_memory" >Out of java memory!
+                </string>
+                <string name="eat_native_memory" >Eat native memory
+                </string>
+                <string name="java_heap" >Java memory eaten:
+                </string>
+                <string name="memory_class" >Memory class:
+                </string>
+                <string name="error_none" >No error
+                </string>
+                <string name="native_heap" >Native memory eaten:
+                </string>
+                <string name="eat_bitmap_memory" >Eat bitmap
+                </string>
+                <string name="total_heap" >Total memory eaten:
+                </string>
+                <string name="large_memory_class" >Large memory class:
+                </string>
                 <string name="app_name" >Memory Eater
                 </string>
+                <string name="total_size" >Total size:
+                </string>
+                <string name="eat_java_memory" >Eat java memory
+                </string>
+                <string name="error_out_of_memory" >Out of memory!
+                </string>
                 <string name="hello_world" >Hello world!
-                </string>
-                <string name="out_of_memory_error" >Out of memory!
-                </string>
-                <string name="no_error" >No error
                 </string>
             </file>
             <file
@@ -70,7 +97,7 @@
 
                 <style
                     name="AppBaseTheme"
-                    parent="android:Theme.Light" >
+                    parent="@android:Theme.DeviceDefault" >
 
                     <!--
             Theme customizations available in newer API levels can go in
@@ -110,6 +137,11 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="activity_main"
+                path="/home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/src/main/res/layout-land/activity_main.xml"
+                qualifiers="land"
+                type="layout" />
         </source>
         <source path="/home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/rs/debug" />
     </dataSet>

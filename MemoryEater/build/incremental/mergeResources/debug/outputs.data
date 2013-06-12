@@ -1,13 +1,14 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1370874114000 946 43608a827fabbba137575221d0d6a2bd5dbb454c /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values/values.xml
-1370863560000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/menu/main.xml
-1370863560000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1370863560000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1370863560000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values-sw720dp-land/values.xml
-1370863560000 217 f02e000d05a079992d2dba18039216c1e6b8784f /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values-v14/values.xml
-1370863560000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1370874114000 1066 5027039cef85b5b1405531cacfc876e9cfb4496f /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/layout/activity_main.xml
-1370863560000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values-v11/values.xml
-1370863560000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1371045291000 1552 99af8acc4028755514accf404b29149790c8058d /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values/values.xml
+1371044047000 74 d1a1c6680eb419f73e9bc26352fe6867cc927601 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/menu/main.xml
+1371036181000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1371036181000 42514 34c761d600f408711d618a527e61cce0177a6f7d /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/raw/bitmap_bite.png
+1371036181000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1371036181000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values-sw720dp-land/values.xml
+1371036181000 217 f02e000d05a079992d2dba18039216c1e6b8784f /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values-v14/values.xml
+1371036181000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1371045619000 8316 9158f000e6298c625f48ce56d845cad3359135e4 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/layout/activity_main.xml
+1371036181000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/values-v11/values.xml
+1371036181000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/michal/AndroidStudioProjects/MemoryEaterProject/MemoryEater/build/res/all/debug/drawable-xhdpi/ic_launcher.png
